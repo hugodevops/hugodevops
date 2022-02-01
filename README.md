@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋, my name is Hugo...
+<p><strong>Information Systems<strong/> student in search of learning using a repository dedicated to projects that have been applied according to my learning.<p>
 
-<!--
+  <!--
 **hugodevops/hugodevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

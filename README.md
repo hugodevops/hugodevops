@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Hugo...
-<p><strong>Information Systems<strong/> student in search of learning using a repository dedicated to projects that have been applied according to my learning.<p>
+**Information Systems** student in search of learning using a repository dedicated to projects that have been applied according to my learning.
 
   <!--
 **hugodevops/hugodevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
